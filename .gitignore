@@ -33,3 +33,7 @@ proguard/
 
 # Emacs backup files
 *.*~
+
+#intellij files
+.idea
+*.iml
